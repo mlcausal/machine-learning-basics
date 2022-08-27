@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Machine Learning Basics
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This GitHub intends to provide solid understanding of the basic concepts of machine learning.
