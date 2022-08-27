@@ -1,24 +1,23 @@
-Welcome to Lumache's documentation!
-===================================
+Machine Learning Basics
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This GitHub repository intends to provide solid understanding of the basic concepts of machine learning.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+*Note: To look at the documentation in a nicer format, visit our RTD website: https://machine-learning-basics.readthedocs.io/en/latest/*
 
-.. note::
+*Course website*: https://mlcausal.github.io/<br>
+*Course edition*: 2022 (Aug. 24 - Dec. 12) - Being kept up to date</br>
+*Author*: Anisio Lacerda
 
-   This project is under active development.
+How to run the notebooks
+----------------------------------------
 
-Contents
---------
+- **Locally on CPU**: All notebooks are stored on the github repository that also builds this website.
 
-.. toctree::
+- **Google Colab**: If you prefer to run the notebooks on a different platform than your own coputer, or want to experiment with GPU support (assuming it is not present on your own computer), we recommend [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true).
 
-   usage
-   api
+Feedback, Questions or Contributions
+----------------------------------------
 
-Lumache has its documentation hosted on Read the Docs.
+This is the first time we present these tutorials during the Causality in Machine Learning course. As with any other project, small bugs and issues are expected. We appreciate any feedback from students, whether it is about a spelling mistake, implementation bug, or suggestions for improvements/additions to the notebooks.
+
