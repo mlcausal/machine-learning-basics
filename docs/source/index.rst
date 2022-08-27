@@ -3,8 +3,8 @@ Welcome to the Machine Learning Basics Tutorials!
 
 This GitHub repository intends to provide solid understanding of the basic concepts of machine learning.
 
-| *Course website*: https://mlcausal.github.io/<br>
-| *Course edition*: 2022 (Aug. 24 - Dec. 12) - Being kept up to date</br>
+| *Course website*: https://mlcausal.github.io/
+| *Course edition*: 2022 (Aug. 24 - Dec. 12) - Being kept up to date
 | *Author*: Anisio Lacerda
 
 How to run the notebooks
