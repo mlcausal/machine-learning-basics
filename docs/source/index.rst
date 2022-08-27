@@ -3,9 +3,6 @@ Welcome to the Machine Learning Basics Tutorials!
 
 This GitHub repository intends to provide solid understanding of the basic concepts of machine learning.
 
-.. note::
-    To look at the documentation in a nicer format, visit our RTD website: https://machine-learning-basics.readthedocs.io/en/latest/*
-
 | *Course website*: https://mlcausal.github.io/<br>
 | *Course edition*: 2022 (Aug. 24 - Dec. 12) - Being kept up to date</br>
 | *Author*: Anisio Lacerda
